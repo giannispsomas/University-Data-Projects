@@ -1,0 +1,160 @@
+{
+  "n": 60,
+  "groups": {
+    "Students": 39,
+    "Art & culture enthusiasts": 18,
+    "Professionals": 3
+  },
+  "tests": [
+    {
+      "id": "T1",
+      "comparison": "Would travel to a film set (yes vs not yes): students vs others",
+      "test": "Fisher exact",
+      "p_raw": 0.0285,
+      "effect": "OR = 3.66 (95% CI 1.18-10.37)",
+      "p_holm": 0.1927,
+      "significant_5pct": "no"
+    },
+    {
+      "id": "T2",
+      "comparison": "Motivation score (1-10): students vs others",
+      "test": "Mann-Whitney U",
+      "p_raw": 0.5211,
+      "effect": "rank-biserial r = +0.10; medians 5.0 vs 5.0",
+      "p_holm": 1.0,
+      "significant_5pct": "no"
+    },
+    {
+      "id": "T3",
+      "comparison": "Motivation score (1-10): has visited a film set vs not",
+      "test": "Mann-Whitney U",
+      "p_raw": 0.2344,
+      "effect": "rank-biserial r = +0.19; medians 5.5 vs 4.5",
+      "p_holm": 0.7396,
+      "significant_5pct": "no"
+    },
+    {
+      "id": "T4",
+      "comparison": "Would travel (yes vs not yes): has visited a film set vs not",
+      "test": "Fisher exact",
+      "p_raw": 0.0525,
+      "effect": "OR = 3.50 (95% CI 0.96-10.86)",
+      "p_holm": 0.2624,
+      "significant_5pct": "no"
+    },
+    {
+      "id": "T5",
+      "comparison": "Films watched per year (ordinal) vs motivation score",
+      "test": "Spearman",
+      "p_raw": 0.0275,
+      "effect": "rho = +0.28",
+      "p_holm": 0.1927,
+      "significant_5pct": "no"
+    },
+    {
+      "id": "T6",
+      "comparison": "Motivation score (1-10): women vs men (1 'other' excluded)",
+      "test": "Mann-Whitney U",
+      "p_raw": 0.1849,
+      "effect": "rank-biserial r = +0.21; medians 5.0 vs 4.0",
+      "p_holm": 0.7396,
+      "significant_5pct": "no"
+    },
+    {
+      "id": "T7",
+      "comparison": "State management rated inappropriate: students vs others",
+      "test": "Fisher exact",
+      "p_raw": 1.0,
+      "effect": "OR = 0.88 (95% CI 0.31-2.60)",
+      "p_holm": 1.0,
+      "significant_5pct": "no"
+    }
+  ],
+  "key": [
+    {
+      "indicator": "Have attended a film festival",
+      "n_yes": 11,
+      "n": 60,
+      "pct": 0.1833,
+      "ci_low": 0.1056,
+      "ci_high": 0.2992
+    },
+    {
+      "indicator": "Have visited a film set",
+      "n_yes": 18,
+      "n": 60,
+      "pct": 0.3,
+      "ci_low": 0.199,
+      "ci_high": 0.4251
+    },
+    {
+      "indicator": "Would travel to visit a film set",
+      "n_yes": 35,
+      "n": 60,
+      "pct": 0.5833,
+      "ci_low": 0.4573,
+      "ci_high": 0.6994
+    },
+    {
+      "indicator": "Rate state management of film sets as inappropriate",
+      "n_yes": 36,
+      "n": 60,
+      "pct": 0.6,
+      "ci_low": 0.4737,
+      "ci_high": 0.7143
+    },
+    {
+      "indicator": "Believe film tourism has prospects in Greece",
+      "n_yes": 45,
+      "n": 60,
+      "pct": 0.75,
+      "ci_low": 0.6277,
+      "ci_high": 0.8422
+    },
+    {
+      "indicator": "Believe COVID-19 affected film tourism",
+      "n_yes": 52,
+      "n": 60,
+      "pct": 0.8667,
+      "ci_low": 0.7583,
+      "ci_high": 0.9309
+    },
+    {
+      "indicator": "Know places where films were shot",
+      "n_yes": 58,
+      "n": 60,
+      "pct": 0.9667,
+      "ci_low": 0.8864,
+      "ci_high": 0.9908
+    }
+  ],
+  "travel_by_segment_pct": {
+    "Students": {
+      "Yes": 69.2,
+      "Unsure": 17.9,
+      "No": 12.8
+    },
+    "Others": {
+      "Yes": 38.1,
+      "Unsure": 33.3,
+      "No": 28.6
+    }
+  },
+  "validation_exact": 21,
+  "validation_total": 24,
+  "themes": {
+    "Promotion / awareness": 18,
+    "Other": 16,
+    "No opinion / blank": 16,
+    "Funding / state support": 6,
+    "Make sets visitable / tourist offer": 6,
+    "Education / culture": 3
+  },
+  "cleaning_log": {
+    "truncated_answers_interpreted": 1,
+    "excel_date_cells_repaired": 2,
+    "age_cells_with_text_parsed": 2
+  },
+  "motivation_median": 5.0,
+  "covid_median": 7.5
+}

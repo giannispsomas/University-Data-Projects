@@ -1,0 +1,61 @@
+﻿respondent,group,films_per_year,greek_films_per_year,favourite_genre,attended_festival,motivation_visit_location,visited_film_set,would_travel_to_film_set,set_inside_or_outside_greece,knows_film_locations,travelled_to_film_locations,many_visitable_sets,how_many_sets,where_most_sets,prospects_for_film_tourism,state_management,improvement_suggestion,covid_affected,covid_impact_score,age,gender
+Φοιτητής/τρια #1,Students,30+,0-5,Crime,No,1,No,No,Unsure,Yes,Yes,Yes,11-20,ΑΘΗΝΑ,No,Inappropriate,Με περισσότερη μελέτη από το πως διαχειρίζεται από τις υπόλοιπες ευρωπαϊκές χώρες,Yes,6,21.0,Male
+Φοιτητής/τρια #2,Students,11-20,6-10,Romance,No,8,No,Yes,Inside Greece,Yes,Yes,Yes,20+,Σε υπαίθριους χώρους,Yes,Appropriate,Δεν γνωριζω,Yes,7,21.0,Female
+Φοιτητής/τρια #3,Students,21-30,0-5,Romance,No,5,Yes,Yes,Outside Greece,Yes,No,Yes,0-10,Αθηνα,No,Inappropriate,Καλύτερες παραγωγές,Yes,10,21.0,Female
+Φοιτητής/τρια #4,Students,1-10,0-5,Crime,No,1,No,Unsure,Unsure,No,No,Yes,11-20,Σε νησιά και σε βασικά μνημεία της Ελλάδος,Yes,Inappropriate,Πιστεύω πως ο ελληνικός κινηματογράφος δεν προωθείται από τους Έλληνες. Δεν έχω δει πολλές ταινίες που δείχνουν την Ελληνική κουλτούρα μιλοντας στα Αγγλικά. Επίμονος οι ξένοι δεν μπορούν να τις παρακολουθήσουν.,No,3,21.0,Male
+Φοιτητής/τρια #5,Students,11-20,0-5,Social / drama,No,5,Yes,Yes,Outside Greece,Yes,No,No,0-10,Δεν γνωρίζω,Yes,Inappropriate,Δεν γνωρίζω,Yes,8,21.0,Female
+Φοιτητής/τρια #6,Students,21-30,0-5,Social / drama,No,4,No,Unsure,Unsure,Yes,No,No,0-10,Δεν ξερψ,Yes,Appropriate,!,Yes,6,21.0,Female
+Φοιτητής/τρια #7,Students,11-20,0-5,Social / drama,No,7,No,Yes,Outside Greece,Yes,No,Yes,20+,Δεν γνωρίζω συγκεκριμένα,Yes,Inappropriate,Δεν σκέφτομαι κάτι συγκεκριμένο,Yes,7,18.0,Female
+Φοιτητής/τρια #8,Students,21-30,6-10,Social / drama,Yes,5,Yes,Yes,Unsure,Yes,Yes,Yes,20+,Αθήνα,Yes,Inappropriate,Επιπλέον προώθηση στις εξωτερικές αγορές. Εισαγωγη πολιτιστικών μαθημάτων και κινηματογραφικής παιδείας στα σχολεία.,Yes,6,20.0,Male
+Φοιτητής/τρια #9,Students,21-30,6-10,Social / drama,No,4,No,Yes,Outside Greece,Yes,No,No,0-10,Στην Αθήνα,Yes,Appropriate,Σίγουρα,Yes,7,21.0,Female
+Φοιτητής/τρια #10,Students,11-20,11-15,Crime,No,4,Yes,Yes,Inside Greece,Yes,Yes,No,0-10,"Σε μερικά νησιά,κάποια από αυτά",Yes,Inappropriate,Με το να καταστούν επισκέψιμα περισσότερα κινηματογραφικά σκηνικά και να υπάρχει ευρύτερη ενημέρωση γι’ αυτά,Yes,6,20.0,Female
+Φοιτητής/τρια #11,Students,21-30,0-5,Social / drama,Yes,6,Yes,Yes,Inside Greece,Yes,Yes,Yes,0-10,Σε συγκεκριμένα νησιά και βουνά,Yes,Inappropriate,Μέσω πολιτικών αποφάσεων και σεφ εργασία φορέων τοπικών και κεντρικών,Yes,8,22.0,Male
+Φοιτητής/τρια #12,Students,21-30,0-5,Crime,No,5,No,Unsure,Unsure,Yes,Yes,Yes,0-10,Στα νησιά,Yes,Inappropriate,Καλύτερη ενημέρωση για τους τόπους που έχουν γυριστεί οι ταινίες,Yes,7,23.0,Female
+Φοιτητής/τρια #13,Students,11-20,0-5,Social / drama,No,2,No,Yes,Unsure,Yes,No,Yes,0-10,Αθήνα,Yes,Appropriate,περισσότερη ανάπτυξη στα υλικά και εργαλεία,Yes,6,21.0,Male
+Φοιτητής/τρια #14,Students,11-20,0-5,Social / drama,No,4,No,Yes,Outside Greece,Yes,No,No,0-10,σε νησιά,Yes,Inappropriate,"κρατική επένδυση, σωστό marketing διαχείριση από γνωστές του αντικειμένου",Yes,5,24.0,Female
+Φοιτητής/τρια #15,Students,1-10,0-5,Romance,No,6,No,Yes,Outside Greece,Yes,Yes,No,0-10,Ηνωμένο Βασίλειο,Yes,Inappropriate,Σωστή ενημέρωση,No,5,21.0,Female
+Φοιτητής/τρια #16,Students,11-20,0-5,Social / drama,No,5,No,No,Unsure,Yes,No,Yes,20+,Στα νησιά,No,Inappropriate,Ελληνικές ταινίες με αφήγηση και σενάριο στα αγγλικά,Unsure,1,21.0,Female
+Φοιτητής/τρια #17,Students,21-30,6-10,Social / drama,No,6,No,Yes,Outside Greece,Yes,No,Yes,20+,Στην Αθήνα,Yes,Inappropriate,Προώθηση,Yes,8,21.0,Female
+Φοιτητής/τρια #18,Students,1-10,0-5,Social / drama,No,3,No,Yes,Outside Greece,Yes,Yes,No,0-10,Νησιά,Yes,Inappropriate,.,Yes,7,21.0,Female
+Φοιτητής/τρια #19,Students,30+,6-10,Crime,No,6,Yes,Yes,Outside Greece,Yes,No,Yes,11-20,Αθήνα,Yes,Appropriate,Καλύτερους διοργάνωση,Yes,10,21.0,Female
+Φοιτητής/τρια #20,Students,30+,0-5,Romance,No,7,No,Yes,Unsure,Yes,Yes,Yes,0-10,Στην Αθήνα,Yes,Inappropriate,Περισσότερα επισκέψιμα κινηματογραφικα σκηνικά.,Unsure,5,21.0,Female
+Φοιτητής/τρια #21,Students,11-20,0-5,Social / drama,No,7,No,Yes,Unsure,Yes,No,No,0-10,Νησιά,No,Inappropriate,.,No,1,21.0,Female
+Φοιτητής/τρια #22,Students,1-10,0-5,Crime,No,3,Yes,Yes,Outside Greece,Yes,No,Yes,20+,Σε νησιά,Yes,Appropriate,Δεν ξέρω,Yes,4,22.0,Female
+Φοιτητής/τρια #23,Students,11-20,0-5,Social / drama,No,7,Yes,Yes,Inside Greece,Yes,Yes,Yes,0-10,Αθήνα και Πελοπόννησο,Yes,Appropriate,Δεν γνωρίζω,No,5,22.0,Female
+Φοιτητής/τρια #24,Students,11-20,0-5,Social / drama,No,2,No,No,Unsure,Yes,No,Yes,20+,"Κυρίως στα νησιά, συγκεκριμένα τις Κυκλάδες και τα Δωδεκάνησα",No,Appropriate,Δεν γνωρίζω,Yes,9,25.0,Male
+Φοιτητής/τρια #25,Students,21-30,0-5,Social / drama,No,1,Yes,Yes,Inside Greece,Yes,Yes,No,0-10,Κρήτη η Πελοπόννησο,Yes,Appropriate,Χρηματοδότηση από το κράτος,Yes,8,23.0,Female
+Φοιτητής/τρια #26,Students,30+,6-10,Social / drama,No,8,No,Yes,Unsure,Yes,Yes,No,0-10,Στο Ιόνιο,Yes,Inappropriate,Περισσότερη εκμετάλλευση στον τουριστικό τομέα,Yes,9,21.0,Female
+Φοιτητής/τρια #27,Students,1-10,0-5,Social / drama,No,2,No,Yes,Inside Greece,Yes,Yes,Yes,11-20,Στην Αμερική,Unsure,Inappropriate,Δεν γνωρίζω,Yes,7,30.0,Male
+Φοιτητής/τρια #28,Students,21-30,0-5,Social / drama,No,7,No,Yes,Outside Greece,Yes,No,No,0-10,"Δεν ξέρω, δεν ασχολούμαι συχνά με τον ελληνικό κινηματογράφο.",Unsure,Appropriate,Ίσως με την οργάνωση περισσότερων φεστιβάλ και εκπαιδευτικών προγραμμάτων με σύγχρονες εγκαταστάσεις.,Yes,8,19.0,Female
+Φοιτητής/τρια #29,Students,11-20,0-5,Social / drama,No,6,No,Yes,Inside Greece,Yes,Yes,Yes,0-10,Στα βουνα και σε μερη μακρια απ τη πολη,Yes,Appropriate,Με το να υποστηριζουμε τον Ελληνικο κινηματογραφο,Yes,7,23.0,Female
+Φοιτητής/τρια #30,Students,1-10,0-5,Romance,No,10,No,Unsure,Unsure,Yes,Yes,Yes,20+,Κρήτη,Unsure,Inappropriate,δεν ξέρω,Yes,6,23.0,Male
+Φοιτητής/τρια #31,Students,11-20,15+,Crime,No,6,Yes,No,Unsure,Yes,No,Yes,11-20,Αιγαίο,Yes,Appropriate,Προώθηση των περιοχών που έχουν χρησιμοποιηθεί για γυρίσματα,Yes,8,21.0,Male
+Φοιτητής/τρια #32,Students,11-20,0-5,Crime,No,1,No,Unsure,Unsure,Yes,Yes,No,0-10,Αθηνα Ακρόπολη πλάκα,Unsure,Appropriate,Περισσότερα τοπία όπως ήδη προβάλουν αλλά κι έθιμα της κάθε περιοχές,Yes,4,21.0,Male
+Φοιτητής/τρια #33,Students,11-20,6-10,Social / drama,No,3,No,No,Unsure,Yes,Yes,Yes,20+,Σε νησιά,Yes,Appropriate,Γνωστοποίηση των παλιών ηθοποιών,Yes,7,21.0,Female
+Φοιτητής/τρια #34,Students,11-20,0-5,Social / drama,No,1,No,Unsure,Unsure,Yes,Yes,Yes,0-10,Αθήνα,Yes,Appropriate,Ανάπτυξη κεφαλαίου στον κλάδο αυτό,Yes,8,20.0,Male
+Φοιτητής/τρια #35,Students,30+,0-5,Social / drama,No,8,No,Yes,Inside Greece,Yes,Yes,Yes,0-10,"Κρήτη, Σαντορίνη, Αγίων Όρων, Μετέωρα, τα ελληνικά νησιά, Πειραιά",Yes,Appropriate,"Να δώσει παραπάνω πληροφορία, να υπάρχει εκδρομές, να υπάρχει πιο εύκολο τρόπο για επίσκεψη",Yes,10,37.0,Female
+Φοιτητής/τρια #36,Students,11-20,0-5,Social / drama,No,8,Yes,Yes,Inside Greece,Yes,Yes,No,0-10,"Σε νησια, τουριστικα αξιοθεατα",Yes,Inappropriate,Να υπαρχη περισσοτερη εκπεδευση πανω στον κηνηματογραφο ωστε να καταλαβενει ο κοσμος την αξια του σκηνηκου και να θελει να το επισκευτη,Yes,8,20.0,Female
+Φοιτητής/τρια #37,Students,21-30,6-10,Social / drama,No,4,No,Unsure,Inside Greece,No,No,No,0-10,Στην Αθήνα,No,Inappropriate,Ίσος με Κακούρη διαχείριση καλύτερη οικονομική κατάσταση και εξειδικευμένο προσωπικό,Yes,7,21.0,Female
+Φοιτητής/τρια #38,Students,30+,6-10,Social / drama,No,5,No,Yes,Unsure,Yes,No,Yes,0-10,Κυρίως σε νησιά,Yes,Inappropriate,Δεν γνωρίζω.,Yes,9,22.0,Female
+Φοιτητής/τρια #39,Students,30+,6-10,Crime,No,5,Yes,Yes,Unsure,Yes,Yes,Yes,11-20,Νησιωτικές/ορεινές περιοχές,Yes,Inappropriate,Προβολή των σημείων αυτών,Yes,8,21.0,Male
+Επαγγελματίας #1,Professionals,21-30,0-5,Social / drama,Yes,7,Yes,Yes,Inside Greece,Yes,Yes,No,11-20,Αθήνα,Unsure,Inappropriate,Προωθώντας τα κινηματογραφικά σκηνικά για επίσκεψη του κοινού.,Yes,10,25.0,Female
+Επαγγελματίας #2,Professionals,30+,0-5,Social / drama,Yes,6,No,Unsure,Unsure,Yes,Yes,Yes,11-20,Αθήνα και Νησιά,Yes,Inappropriate,"Ένταξη σε τουριστικούς οδηγούς κινηματογραφικά σκηνικά, περισσότερα φεστιβάλ ανά την Ελλάδα, Ανοιχτό κάλεσμα σε καλλιτέχνες του εξωτερικού για συμμετοχή σε φεστιβάλ, περισσότερες επιχορηγήσεις για κινηματογραφικές παραγωγές, εκπαιδευτικά προγράμματα και παιδικά εργαστήρια με θέμα τον κινηματογράφο κ.α",Yes,10,31.0,Female
+Επαγγελματίας #3,Professionals,11-20,0-5,Social / drama,Yes,6,No,Unsure,Unsure,Yes,Yes,No,0-10,Νησιά και αρχαιολογικά σημεία με μνημεία,Yes,Appropriate,Μέσα από το ΕΚΟΜΕ,Yes,9,45.0,Male
+Άτομο #1,Art & culture enthusiasts,1-10,15+,Romance,No,2,No,No,Inside Greece,Yes,Yes,No,0-10,Στα νησιά μας,Yes,Appropriate,Με την σωστή προώθηση,Yes,8,46.0,Male
+Άτομο #2,Art & culture enthusiasts,30+,11-15,Social / drama,Yes,6,Yes,No,Unsure,Yes,Yes,No,0-10,Ηνωμενες πολιτειες,Yes,Inappropriate,"Να υπαρχουν επιδοτησεις σε φεστιβαλ, με σκοπο την προσκληση σκηνοθετων και συνελεστών των ταινιών, που θα προσελκυσουν ατομα τα οποια θα ήθελαν να τους συναντήσουν.",Yes,7,56.0,Female
+Άτομο #3,Art & culture enthusiasts,11-20,0-5,Social / drama,No,3,No,No,Outside Greece,Yes,Yes,Yes,0-10,Στη φυση,Yes,Inappropriate,Μεσω εκτεταμενης προβολης του,Yes,5,55.0,Female
+Άτομο #4,Art & culture enthusiasts,30+,0-5,Social / drama,Yes,1,No,No,Outside Greece,Yes,No,No,11-20,Νησιά,Yes,Appropriate,Με κρατική χρηματοδότηση,Yes,10,40.0,Female
+Άτομο #5,Art & culture enthusiasts,1-10,0-5,Crime,No,7,No,Yes,Unsure,Yes,Yes,No,0-10,Αττική,Yes,Inappropriate,Επισκέψιμα,Yes,7,38.0,Female
+Άτομο #6,Art & culture enthusiasts,1-10,0-5,Social / drama,No,6,No,Unsure,Inside Greece,Yes,Yes,Yes,20+,Νησιά,Yes,Appropriate,Δεν ξέρω,Yes,10,54.0,Female
+Άτομο #7,Art & culture enthusiasts,1-10,0-5,Social / drama,No,1,No,Unsure,Unsure,Yes,Yes,Yes,20+,Στην Αθήνα,Unsure,Appropriate,Δεν γνωρίζω,Yes,7,30.0,Male
+Άτομο #8,Art & culture enthusiasts,11-20,0-5,Social / drama,Yes,2,No,Yes,Outside Greece,Yes,No,No,0-10,δεν γνωρίζω,Yes,Inappropriate,"διατήρηση των σκηνικών, δημιουργία κινηματογραφικού μουσείου, διαρκής ανάδειξη και διαφήμιση των τόπων όπου έγιναν τα γυρίσματα",Yes,9,56.0,Female
+Άτομο #9,Art & culture enthusiasts,11-20,0-5,Crime,No,3,No,Yes,Inside Greece,Yes,Yes,No,0-10,Δεν ξέρω,Yes,Inappropriate,Να διαφημίστη καλύτερα αυτή η μορφή τουρισμου.,Yes,8,31.0,Male
+Άτομο #10,Art & culture enthusiasts,11-20,0-5,Social / drama,Yes,1,Yes,Unsure,Unsure,Yes,Yes,No,0-10,Σε κλειστους χώρους-στούντιο,Unsure,Inappropriate,"Δεν έχω άποψη, αλλά ίσως θα μπορούσαν να διοργνώνονται θεματικά ταξίδια",Unsure,9,55.0,Female
+Άτομο #11,Art & culture enthusiasts,1-10,6-10,Crime,No,5,No,Unsure,Unsure,Yes,No,Yes,11-20,-,Yes,Inappropriate,-,Yes,6,23.0,Female
+Άτομο #12,Art & culture enthusiasts,1-10,0-5,Social / drama,No,1,No,No,Unsure,Yes,No,Yes,0-10,Νησια,Yes,Appropriate,Δράσεις από την πολιτεία,Yes,8,48.0,Female
+Άτομο #13,Art & culture enthusiasts,30+,6-10,Crime,No,8,No,Yes,Inside Greece,Yes,Yes,Yes,20+,Στα νησιά και στην Αθήνα,Yes,Inappropriate,Δεν γνωρίζω,Unsure,5,24.0,Male
+Άτομο #14,Art & culture enthusiasts,11-20,0-5,Social / drama,Yes,5,Yes,No,Unsure,Yes,Yes,No,0-10,Θεσσαλονίκη,Yes,Inappropriate,Διαφήμιση,Yes,8,31.0,Other
+Άτομο #15,Art & culture enthusiasts,1-10,0-5,Social / drama,No,1,No,Unsure,Unsure,Yes,Yes,No,0-10,Δεν ξέρω. Απάντησα όχι σε σχετική ερώτηση παραπάνω,Unsure,Appropriate,Δεν έχω κάποια πρόταση,Yes,10,53.0,Female
+Άτομο #16,Art & culture enthusiasts,30+,0-5,Social / drama,Yes,6,Yes,Yes,Unsure,Yes,Yes,No,0-10,No idea,Unsure,Appropriate,διαφήμιση,Yes,10,59.0,Male
+Άτομο #17,Art & culture enthusiasts,21-30,0-5,Social / drama,No,8,Yes,Yes,Unsure,Yes,Yes,No,0-10,Σε νησιά,Yes,Inappropriate,Προώθηση μέσα από διεθνή μέσα ενημέρωσης,Yes,10,44.0,Male
+Άτομο #18,Art & culture enthusiasts,1-10,0-5,Crime,No,5,No,Yes,Outside Greece,Yes,Yes,Yes,11-20,"Κρήτη, Ρόδο, Αθήνα, Κεφαλονιά, Θεσσαλονίκη, Κέρκυρα",Yes,Inappropriate,"Μέσω ανθρώπων που να γνωρίζουν το αντικείμενο όπως οι ξένοι, που να έχουν την υποστήριξη του Κράτους, που να γνωρίζουν τουριστικό management",Yes,8,61.0,Male

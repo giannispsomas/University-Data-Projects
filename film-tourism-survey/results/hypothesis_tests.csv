@@ -1,0 +1,8 @@
+id,comparison,test,p_raw,effect,p_holm,significant_5pct
+T1,Would travel to a film set (yes vs not yes): students vs others,Fisher exact,0.02849710448373209,OR = 3.66 (95% CI 1.18-10.37),0.19274012196686563,no
+T2,Motivation score (1-10): students vs others,Mann-Whitney U,0.5210614454797842,rank-biserial r = +0.10; medians 5.0 vs 5.0,1.0,no
+T3,Motivation score (1-10): has visited a film set vs not,Mann-Whitney U,0.23435664952805157,rank-biserial r = +0.19; medians 5.5 vs 4.5,0.7395967839651769,no
+T4,Would travel (yes vs not yes): has visited a film set vs not,Fisher exact,0.05247275661374679,OR = 3.50 (95% CI 0.96-10.86),0.262363783068734,no
+T5,Films watched per year (ordinal) vs motivation score,Spearman,0.02753430313812366,rho = +0.28,0.19274012196686563,no
+T6,Motivation score (1-10): women vs men (1 'other' excluded),Mann-Whitney U,0.18489919599129423,rank-biserial r = +0.21; medians 5.0 vs 4.0,0.7395967839651769,no
+T7,State management rated inappropriate: students vs others,Fisher exact,1.0,OR = 0.88 (95% CI 0.31-2.60),1.0,no
