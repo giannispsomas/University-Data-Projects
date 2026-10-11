@@ -27,10 +27,12 @@ The film tourism survey was a joint project: I made it together with a fellow st
 
 ## Tools
 
-- Python (pandas, NumPy, SciPy, matplotlib)
+- Python 3.14 (developed on 3.14.6; pandas, NumPy, SciPy, matplotlib)
 - Jupyter
 - ReportLab
 - Excel (the original survey analysis used SPSS)
+
+Both notebooks run on Python; SPSS was used only in the original film tourism survey coursework, not in the rebuilt analysis here.
 
 ## Reproduce
 
